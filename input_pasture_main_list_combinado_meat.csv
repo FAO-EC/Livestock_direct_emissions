@@ -1,0 +1,18 @@
+id,name,digestibility_percentage,nitrogen_content,percentage_costa,percentage_sierra,percentage_amazonia
+1,Achicoria,61.78,19,0,0,0
+2,Alfalfa,68.84,19,0,0,0
+3,Brachiarias,59.525,19,0,0,0
+4,Estrella,51.5,19,0,0,0
+5,Festuca,66.5,19,0,0,0
+6,Gramalote,55.18,19,0,0,100
+7,Kikuyo,54.05,19,0,100,0
+8,King grass,59.51,19,0,0,0
+9,Llantén,58.155,19,0,0,0
+10,Maní forrajero,58.76,19,0,0,0
+11,Maralfalfa,67.215,19,0,0,0
+12,Pasto azul,53.025,19,0,0,0
+13,Pasto miel,62.5,19,0,0,0
+14,Rye grass,59.63,19,0,0,0
+15,Saboya,60.1,19,100,0,0
+16,Trébol blanco,62.93,19,0,0,0
+17,Trébol rojo,64.05,19,0,0,0
